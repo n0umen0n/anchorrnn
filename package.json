@@ -8,6 +8,8 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "anchor-link": "^2.1.2",
+    "anchor-link-browser-transport": "^2.1.1",
     "expo": "~38.0.8",
     "expo-status-bar": "^1.0.2",
     "react": "~16.11.0",
